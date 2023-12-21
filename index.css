@@ -3,7 +3,6 @@ body {
     background: url("https://media3.giphy.com/media/3rgXBxficY9EFdNb0I/giphy.gif?cid=ecf05e47u1k6lzlvvl4w9mgbjmwq3kg4imbmmc5uwjmgpo70&ep=v1_gifs_search&rid=giphy.gif&ct=g");
     max-width: 100%;
     background-repeat: no-repeat;
-    background-attachment: fixed;
     background-size: cover;
     height:100%;
     font-family:  'Helvetica Neue', sans-serif;
